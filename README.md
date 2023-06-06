@@ -32,11 +32,16 @@
 
 ## Input:
 
+
+![Screenshot 2023-06-06 105044](https://github.com/panimalarponnurangam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121490826/6d950f98-2b44-45f4-9de7-cb67d6c6a077)
+
 ### Output:
 
+![Screenshot 2023-06-06 104813](https://github.com/panimalarponnurangam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121490826/d2db14af-ad64-486d-9432-e9a260b6b5cd)
 
-### Name:
-### Register Number:
+
+### Name:panimalar.p
+### Register Number:212222110031
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
